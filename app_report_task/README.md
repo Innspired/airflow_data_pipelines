@@ -29,4 +29,4 @@
 ![Графики](./screenshots/app_report_plots.png)
 
 ## 📂 Файлы
-*   `IR_app_report_dag.py` — код DAG-а.
+**[IR_app_report_dag.py](./IR_app_report_dag.py)** — код DAG-а.
